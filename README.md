@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nirpez
 - 👀 I’m interested in learning new skills and tools that helps be productive.
 - 🌱 I’m currently learning PKM tools, mainly focused on logseq.
-- 📫 How to reach me at https://www.linkedin.com/in/nripeshayer/
+- 📫 How to reach me? -> https://www.linkedin.com/in/nripeshayer/
